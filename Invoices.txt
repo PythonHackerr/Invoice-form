@@ -1,0 +1,29 @@
+Bob
+Poland Warsaw Akademicka 5
+Bob@gmail.com
+
+Alice
+Poland Warsaw Akademicka 11
+Alice@gmail.com
+
+Poland Warsaw Akademicka 20
+
+Apple, Apple Factory, 3.99, 200
+Banana, Banana Factory, 6.99, 15000
+
+--------------------------------
+
+Misha
+Poland Warsaw Akademicka 5
+Bob@gmail.com
+
+Oggy
+Poland Warsaw Akademicka 77
+Alice@gmail.com
+
+Poland Warsaw Akademicka 20885
+
+Grape, Apple Factory, 3.99, 200
+Pie, Pie Factory, 9.99, 1500
+Apple Pie, Pie Factory, 8.99, 200
+Banana, Banana Factory, 6.99, 150
